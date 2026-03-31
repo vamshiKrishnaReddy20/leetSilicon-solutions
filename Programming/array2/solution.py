@@ -8,7 +8,7 @@ class Solution:
     rightPtr = len(nums) - 1
 
     while(leftPtr < rightPtr):
-      #Swapping
+      #Swaping
       nums[leftPtr], nums[rightPtr] = nums[rightPtr], nums[leftPtr]
       
       leftPtr += 1
