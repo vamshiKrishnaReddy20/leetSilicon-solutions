@@ -12,13 +12,16 @@ LeetSilicon is an interview preparation platform tailored for hardware engineers
 * **Debug Code:** RTL debugging, GTKWave traces, and bug-fix challenges.
 
 ## 🗂️ Repository Structure
+
 To keep things organized, the solutions are categorized by domain:
 
+```
 ├── Comp-Arch/
 ├── RTL-Design/
 ├── Design-Verification/
 ├── Programming/
 └── Debug-Code/
+```
 
 ## 🛠️ Tech Stack & Tools
 * **Languages:** SystemVerilog, C++, Python
