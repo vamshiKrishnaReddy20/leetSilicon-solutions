@@ -2,7 +2,8 @@
 
 | Property | Value |
 |----------|-------|
-| **Language** | python |
+| **Difficulty** | Easy |
+| **Language** | cpp |
 | **Solved** | April 1, 2026 |
 | **Platform** | [LeetSilicon](https://leetsilicon.com/?view=question&question=array1) |
 
@@ -45,7 +46,6 @@ Output: 42 42
 | Metric | Value |
 |--------|-------|
 | **Status** | ✅ Passed |
-| **Tests** | 6 passed, 0 failed |
 | **Lint Warnings** | 0 |
 
 ## Waveforms
