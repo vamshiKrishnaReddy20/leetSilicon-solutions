@@ -2,10 +2,8 @@
 
 | Property | Value |
 |----------|-------|
-| **Difficulty** | Easy |
-| **Category** | RTL |
 | **Language** | SystemVerilog |
-| **Solved** | April 13, 2026 |
+| **Solved** | April 14, 2026 |
 | **Platform** | [LeetSilicon](https://leetsilicon.com/?view=question&question=rtl2) |
 
 ## Problem Description
@@ -49,11 +47,12 @@ Assert output when input is high for exactly one clock cycle (pattern 0,1,0 in c
 | Metric | Value |
 |--------|-------|
 | **Status** | ✅ Passed |
+| **Tests** | 3 passed, 0 failed |
 | **Lint Warnings** | 0 |
 
 ## Waveforms
 
-> View simulation waveforms on [LeetSilicon](https://leetsilicon.com/?view=question&question=rtl2) → Run Code → Waveform tab
+![Simulation Waveform](waveform.png)
 
 ---
-*Auto-synced by [SiliconHub](https://github.com) · April 13, 2026*
+*Auto-synced by [SiliconHub](https://github.com) · April 14, 2026*
