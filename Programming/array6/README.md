@@ -10,11 +10,27 @@
 
 Test Cases (3)Results
 
+Accepted3/3 test cases passed
+
 Case 1Case 2Case 3
 
 Input
 
 nums=[3,0,1]
+
+Expected Output
+
+```text
+2
+```
+
+Output
+
+```text
+2
+```
+
+Runtime: 25 ms
 
 ### Problem Statement
 
