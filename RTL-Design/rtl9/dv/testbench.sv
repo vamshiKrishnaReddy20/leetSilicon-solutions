@@ -27,7 +27,7 @@ module tb;
 
     // TC — 60 sec_pulses produce one min_pulse
     begin
-      automatic int mc = 0;
+      int mc = 0;
       repeat (60 * 1000) begin
         tick_1ms = 1; @(posedge clk);
         tick_1ms = 0; @(posedge clk);
