@@ -18,10 +18,14 @@ module sync_counter #(
   output logic [N-1:0] count
 );
 
-  always_ff @(posedge clk) begin
-    if (!rst_n) count <= RESET_VALUE;
-    else if(enable) count <= count + 1;
-  end
+  // TODO: Decide reset polarity usage (rst_n vs rst).
+  // TODO: Implement always_ff with priority:
+  // - if reset: count <= RESET_VALUE
+  // - else if enable: count <= count + 1'b1
+  // - else hold
+  //
+  // TODO: Confirm behavior for N=1.
+  // TODO: Optional terminal_count output (count == {N{1'b1}}).
 
 endmodule
 
