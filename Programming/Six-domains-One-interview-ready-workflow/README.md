@@ -8,7 +8,7 @@
 
 ## Problem Description
 
-Test Cases (3)ResultsAccepted3/3 test cases passedCase 1Case 2Case 3Inputarr=[1,5,3,2]Expected Output0Output0Runtime: 24 ms
+Test Cases (3)ResultsAccepted3/3 test cases passedCase 1Case 2Case 3Inputarr=[1,5,3,2]Expected Output0Output0Runtime: 30 ms
 
 ## Execution Results
 
